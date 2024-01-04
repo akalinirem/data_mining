@@ -29,8 +29,8 @@
 27,Clarence,Male,8/26/1982,9:47 AM,146589,4.905,True,Business Development
 28,Anthony,Male,2/13/2013,1:35 PM,146141,3.645,True,Distribution
 29,Elizabeth,Female,10/9/2003,5:53 PM,146129,5.687,False,Finance
-30,Marie,Female,4/8/1983,2:01 PM,145988,18.685,True,Human Resources
-31,Jacqueline,Female,11/25/1981,3:01 PM,145988,18.243,False,Marketing
+30,Jacqueline,Female,11/25/1981,3:01 PM,145988,18.243,False,Marketing
+31,Marie,Female,4/8/1983,2:01 PM,145988,18.685,True,Human Resources
 32,Julie,Female,3/8/1980,5:13 AM,145357,3.459,False,Engineering
 33,,Male,11/24/2015,3:11 AM,145329,7.1,,Finance
 34,,Female,8/2/1992,8:35 PM,145316,18.517,,Human Resources
@@ -483,8 +483,8 @@
 481,Janice,,8/21/1997,5:12 AM,91719,11.583,True,Legal
 482,Kathy,Female,3/9/1996,4:33 AM,91712,8.567,False,Finance
 483,Sharon,Female,3/9/2014,4:39 PM,91522,7.564,False,Finance
-484,Louise,Female,9/18/1981,5:47 AM,91462,8.205,False,Marketing
-485,Paul,,2/18/2011,12:23 PM,91462,18.704,False,Finance
+484,Paul,,2/18/2011,12:23 PM,91462,18.704,False,Finance
+485,Louise,Female,9/18/1981,5:47 AM,91462,8.205,False,Marketing
 486,Rose,Female,4/6/1982,10:43 AM,91411,8.639,True,Human Resources
 487,Frank,Male,7/27/2013,4:32 PM,91406,5.681,True,Business Development
 488,Earl,Male,1/5/2000,5:46 PM,91344,4.035,True,Sales
