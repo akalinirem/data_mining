@@ -168,3 +168,7 @@ Sezonal etki gibi istenmeyen özellikler ortadan kalkar.
 
     Standardizasyon
 Verinin ortalamadan çıkarılarak standart sapmasına bölünmesi ile elde edilen sonuçlardır.
+
+## Veri Görselleştirme
+
+<img src="img/data_visualization.png" width=500 heigth=250>
